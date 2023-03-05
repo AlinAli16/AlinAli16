@@ -28,7 +28,7 @@ alt="Welcome"
      height="20">
 
 ## 📚 <b> Мои проекты </b> </p>
-> <a href="https://github.com/AlinAli16/karpov.courses" title="Результаты курса">My work on Karpov.Courses </a><p>
+> <a href="https://github.com/AlinAli16/karpov.courses" title="Результаты курса">My проекты на Karpov.Courses </a><p>
 <ul>
  📁 Промежуточный проект по  e-commerce на Karpov.Courses <a href="https://github.com/AlinAli16/karpov.courses/tree/main/e-commerce"> здесь </a> <br>
  📁 Финальный проект на Karpov.Courses <a href="https://github.com/AlinAli16/karpov.courses/tree/main/final_project">здесь</a> <br>

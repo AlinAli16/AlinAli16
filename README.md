@@ -4,11 +4,13 @@ alt="Welcome"
      height="20">
 
 ## <b> Привет всем! 👋 <p> Добро пожаловать на мой Git! </b> 💥 💥 💥 
-Меня зовут Алина и, я считаю, что саморазвитие это круто! Сама я люблю учится и узнавать все новое. Некоторые свои результаты я представляю в github.<p>
+Меня зовут Алина и, я: 
 
-🎓 Окончила Karpov.Courses по направлению Аналитик данных <br>
-
-🎓 Развиваю свои навыки на степике <p>
+💻 люблю работать с данными и программировать <br>
+📈 готова узнавать все новое и считаю, что саморазвитие это круто <br>
+🎓 окончила Karpov.Courses по направлению Аналитик данных <br>
+💡 развиваю свои навыки на степике <p>
+🌟 <b> представляю некоторые свои результаты на github </b> <p>
 
 <img src="Welcome_line.jpg"
      alt="Welcome"
@@ -16,14 +18,20 @@ alt="Welcome"
      height="20">
 
 ## 📚 <b> Мои проекты </b> </p>
-> <a href="https://github.com/AlinAli16/karpov.courses" title="Результаты курса">My проекты на Karpov.Courses </a><p>
+> <a href="https://github.com/AlinAli16/karpov.courses" title="Все проекты курса">My проекты на Karpov.Courses </a><p>
 <ul>
  📁 Промежуточный проект по  e-commerce на Karpov.Courses <a href="https://github.com/AlinAli16/karpov.courses/tree/main/e-commerce"> здесь </a> <br>
  📁 Финальный проект на Karpov.Courses <a href="https://github.com/AlinAli16/karpov.courses/tree/main/final_project">здесь</a> <br>
  📁 Другие проекты <a href="https://github.com/AlinAli16/karpov.courses/tree/main/other">здесь</a>
+     <ul> 
+      📑 <a href="https://github.com/AlinAli16/karpov.courses/tree/main/other/AA_test">A/A тестирование </a> <br>
+      📑 <a href="https://github.com/AlinAli16/karpov.courses/tree/main/other/AB_test"> A/B тестирование </a> <br>
+      📑 <a href="https://github.com/AlinAli16/karpov.courses/tree/main/other/ETL(Python%2BSQL)"> ETL (Python + SQL) </a> <br>
+      📑 <a href="https://github.com/AlinAli16/karpov.courses/tree/main/other/airflow_python"> Airflow </a>   
+     </ul>
 </ul>
 
-> <a href="https://github.com/AlinAli16/Stepik" title ="Результаты со степика">Моя работа на Stepik (скоро) </a><p>
+> <a href="https://github.com/AlinAli16/Stepik" title ="Все результаты со степика">Моя работа на Stepik (скоро) </a><p>
 <ul>
  📁 Python <br>
  📁 Python ООП <br>

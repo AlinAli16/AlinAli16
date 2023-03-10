@@ -31,13 +31,6 @@ alt="Welcome"
      </ul>
 </ul>
 
-> <a href="https://github.com/AlinAli16/Stepik" title ="Все результаты со степика">Моя работа на Stepik (скоро) </a><p>
-<ul>
- 📁 Python <br>
- 📁 Python ООП <br>
- 📁 SQL <br>
- 📁 HTML и CSS <br>
-</ul>
 
 <img src="Welcome_line.jpg"
 alt="Welcome"

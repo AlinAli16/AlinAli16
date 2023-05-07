@@ -18,19 +18,23 @@ alt="Welcome"
      height="20">
 
 ## 📚 <b> Мои проекты </b> </p>
-> <a href="https://github.com/AlinAli16/karpov.courses" title="Karpov.Courses Аналитик данных">My проекты на Karpov.Courses по направлению Аналитик данных </a><p>
+> <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_da">My проекты на Karpov.Courses по направлению Аналитик данных </a><p>
 <ul>
- 📁 Промежуточный проект по  e-commerce на Karpov.Courses <a href="https://github.com/AlinAli16/karpov.courses/tree/main/e-commerce"> здесь </a> <br>
- 📁 Финальный проект на Karpov.Courses <a href="https://github.com/AlinAli16/karpov.courses/tree/main/final_project">здесь</a> <br>
- 📁 Другие проекты <a href="https://github.com/AlinAli16/karpov.courses/tree/main/other">здесь</a>
+ 📁 Промежуточный проект по  e-commerce на Karpov.Courses <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_da/e-commerce"> здесь </a> <br>
+ 📁 Финальный проект на Karpov.Courses <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_da/final_project">здесь</a> <br>
+ 📁 Другие проекты <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_da/other">здесь</a>
      <ul> 
-      📑 <a href="https://github.com/AlinAli16/karpov.courses/tree/main/other/AA_test">A/A тестирование </a> <br>
-      📑 <a href="https://github.com/AlinAli16/karpov.courses/tree/main/other/AB_test"> A/B тестирование </a> <br>
-      📑 <a href="https://github.com/AlinAli16/karpov.courses/tree/main/other/ETL(Python%2BSQL)"> ETL (Python + SQL) </a> <br>
-      📑 <a href="https://github.com/AlinAli16/karpov.courses/tree/main/other/airflow_python"> Airflow </a>   
+      📑 <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_da/other/AA_test">A/A тестирование </a> <br>
+      📑 <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_da/other/AB_test"> A/B тестирование </a> <br>
+      📑 <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_da/other/ETL(Python%2BSQL)"> ETL (Python + SQL) </a> <br>
+      📑 <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_da/other/airflow_python"> Airflow </a>   
      </ul>
 </ul>
 
+> <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_ml">My проекты на Karpov.Courses по направлению Start ML </a><p>
+<ul>
+ 📁 Прикладная разработка на Python <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_ml/Python">здесь</a>
+</ul>
 
 <img src="Welcome_line.jpg"
 alt="Welcome"

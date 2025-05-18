@@ -6,7 +6,6 @@ alt="Welcome"
 ## <b> Привет всем! 👋 <p> Добро пожаловать на мой Git! </b> 💥 💥 💥 
 ### <b>Меня зовут Алина и я: </b>
 
-💻 люблю работать с данными и программировать <br>
 📈 готова узнавать все новое и считаю, что саморазвитие это круто <br>
 🎓 окончила Karpov.Courses по направлениям Аналитик данных и Машинное обучение <br>
 💡 развиваю свои навыки на степике и симуляторах <p>
@@ -42,88 +41,21 @@ alt="Welcome"
      height="20">
 
 ## 🛠️ <b> Мой стек </b> </p> 
-<img src="python.png"
-     title="Python"
-     alt="python"
-     width="40"
-     height="40"> 
-<img src="pandas.png"
-     title="Pandas"
-     alt="pandas"
-     width="80"
-     height="40"> 
-<img src="numpy.png"
-     title="Numpy"
-     alt="numpy"
-     width="50"
-     height="50">
-<img src="Matplotlib.jpg"
-     title="Matplotlib"
-     alt="matplotlib"
-     width="80"
-     height="40">
-<img src="seaborn.png"
-     title="Seaborn"
-     alt="seaborn"
-     width="50"
-     height="50"> 
-<img src="Jupyter.png"
-     title="Jupyter Notebook"
-     alt="jupyter"
-     width="50"
-     height="50"> 
-<img src="postgresql.jpeg"
-     title="Postgresql"
-     alt="postgresql"
-     width="55"
-     height="45">
-<img src="clickhouse.png"
-     title="Clickhouse"
-     alt="clickhouse"
-     width="75"
-     height="40">
-<img src="redash.jpg"
-     title="Redash"
-     alt="redash"
-     width="100"
-     height="50">
-<img src="git.jpg"
-     title="Git"
-     alt="git"
-     width="70"
-     height="40"> 
-<img src="gitlab.png"
-     title="Gitlab"
-     alt="gitlab"
-     width="60"
-     height="50"> 
-<img src="GitHub-Logo.png"
-     title="Github"
-     alt="github"
-     width="70"
-     height="40"> 
-<img src="tableu.png"
-     title="Tableu"
-     alt="tableu"
-     width="60"
-     height="40"> 
-<img src="AirflowLogo.png"
-     title="Airflow"
-     alt="Airflow"
-     width="95"
-     height="35">
-<img src="VScode.png"
-     title="VScode"
-     alt="VScode"
-     width="40"
-     height="40">
-<img src="markdown.jpg"
-     title="Markdown"
-     alt="Markdown"
-     width="50"
-     height="40">
-<img src="matlab.png"
-     title="Matlab"
-     alt="Matlab"
-     width="80"
-     height="50">
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+

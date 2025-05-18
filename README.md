@@ -8,8 +8,8 @@ alt="Welcome"
 
 📈 готова узнавать все новое и считаю, что саморазвитие это круто <br>
 🎓 окончила Karpov.Courses по направлениям Аналитик данных и Машинное обучение <br>
-💡 развиваю свои навыки на степике и симуляторах <p>
-<b> Некоторые свои проекты представляю на github 🌟 </b> <p>
+💡 развиваю свои навыки на степике и симуляторах <br>
+<b> <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="20"> некоторые свои проекты представляю на github </b> <p>
 
 <img src="Welcome_line.jpg"
      alt="Welcome"
@@ -59,3 +59,6 @@ alt="Welcome"
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" alt="Woman Technologist" width="125" height="125" />
+</div>

@@ -37,7 +37,7 @@ alt="Welcome"
 
 > <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_sa">My проекты на Karpov.Courses по направлению Системный аналитик </a><p>
 <ul>
- 📁 (в разработке)
+ 📁 <i>(в разработке)</i>
 </ul>
 
 <img src="Welcome_line.jpg"

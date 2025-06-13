@@ -35,6 +35,11 @@ alt="Welcome"
  📁 Прикладная разработка на Python <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_ml/Python">здесь</a>
 </ul>
 
+> <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_sa">My проекты на Karpov.Courses по направлению Системный аналитик </a><p>
+<ul>
+ 📁 (в разработке)
+</ul>
+
 <img src="Welcome_line.jpg"
 alt="Welcome"
      width="1500"

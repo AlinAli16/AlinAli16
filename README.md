@@ -7,7 +7,7 @@ alt="Welcome"
 ### <b>Меня зовут Алина и я: </b>
 
 📈 готова узнавать все новое и считаю, что саморазвитие это круто <br>
-🎓 окончила Karpov.Courses по направлениям Аналитик данных и Машинное обучение <br>
+🎓 окончила Karpov.Courses по направлениям Аналитик данных и Машинное обучение и прохожу направление Системный аналитик <br>
 💡 развиваю свои навыки на степике и симуляторах <br>
 <b> <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="20"> некоторые свои проекты представляю на github </b> <p>
 
@@ -37,8 +37,11 @@ alt="Welcome"
 
 > <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_sa">My проекты на Karpov.Courses по направлению Системный аналитик </a><p>
 <ul>
- 📁 <i>(в разработке)</i>
-</ul>
+ 📁 Финальный проект (в разработке) <br>
+ 📁 Описание бизнес-контекста<a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_sa/Модуль%203%20Описание%20бизнес-контекста"> здесь (в разработке) </a> <br>
+ 📁 Основы проектирования, проектирование взаимодействия <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_sa/Модуль%204%20Основы%20проектирования%2C%20проектирование%20взаимодействия"> здесь (в разработке) </a> <br>
+ 📁 Основы проектирования БД <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_sa/Модуль%205%20Основы%20прокетирования%20БД"> здесь (в разработке) </a>
+ </ul>
 
 <img src="Welcome_line.jpg"
 alt="Welcome"
@@ -63,7 +66,10 @@ alt="Welcome"
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" alt="Woman Technologist" width="125" height="125" />
 </div>
+

@@ -41,6 +41,7 @@ alt="Welcome"
  📁 Описание бизнес-контекста<a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_sa/Модуль%203%20Описание%20бизнес-контекста"> здесь (в разработке) </a> <br>
  📁 Основы проектирования, проектирование взаимодействия <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_sa/Модуль%204%20Основы%20проектирования%2C%20проектирование%20взаимодействия"> здесь (в разработке) </a> <br>
  📁 Основы проектирования БД <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_sa/Модуль%205%20Основы%20прокетирования%20БД"> здесь (в разработке) </a>
+ 📁 Постановка задач для разработки (спецификации и ТЗ) <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_sa/Модуль%206%20Постановка%20задач%20для%20разработки"> здесь (в разработке) </a>
  </ul>
 
 <img src="Welcome_line.jpg"
@@ -72,4 +73,5 @@ alt="Welcome"
 <div align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" alt="Woman Technologist" width="125" height="125" />
 </div>
+
 

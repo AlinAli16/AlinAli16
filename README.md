@@ -7,7 +7,7 @@ alt="Welcome"
 ### <b>Меня зовут Алина и я: </b>
 
 📈 готова узнавать все новое и считаю, что саморазвитие это круто <br>
-🎓 окончила Karpov.Courses по направлениям Аналитик данных и Машинное обучение и прохожу направление Системный аналитик <br>
+🎓 окончила Karpov.Courses по направлениям Аналитик данных и Машинное обучение и Системный аналитик <br>
 💡 развиваю свои навыки на степике и симуляторах <br>
 <b> <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="20"> некоторые свои проекты представляю на github </b> <p>
 
@@ -37,11 +37,12 @@ alt="Welcome"
 
 > <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_sa">My проекты на Karpov.Courses по направлению Системный аналитик </a><p>
 <ul>
- 📁 Финальный проект (в разработке) <br>
- 📁 Описание бизнес-контекста<a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_sa/Модуль%203%20Описание%20бизнес-контекста"> здесь (в разработке) </a> <br>
- 📁 Основы проектирования, проектирование взаимодействия <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_sa/Модуль%204%20Основы%20проектирования%2C%20проектирование%20взаимодействия"> здесь (в разработке) </a> <br>
- 📁 Основы проектирования БД <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_sa/Модуль%205%20Основы%20прокетирования%20БД"> здесь (в разработке) </a> <br>
- 📁 Постановка задач для разработки (спецификации и ТЗ) <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_sa/Модуль%206%20Постановка%20задач%20для%20разработки"> здесь (в разработке) </a>
+ 📁 Финальный проект <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_sa/Финальный%20проект"> здесь </a> <br>
+ 📁 Описание бизнес-контекста<a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_sa/Модуль%203%20Описание%20бизнес-контекста"> здесь </a> <br>
+ 📁 Основы проектирования, проектирование взаимодействия <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_sa/Модуль%204%20Основы%20проектирования%2C%20проектирование%20взаимодействия"> здесь </a> <br>
+ 📁 Основы проектирования БД <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_sa/Модуль%205%20Основы%20прокетирования%20БД"> здесь </a> <br>
+ 📁 Постановка задач для разработки (спецификации и ТЗ) <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_sa/Модуль%206%20Постановка%20задач%20для%20разработки"> здесь </a> <br>
+ 📁 Прочие задачи <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_sa/Модуль%207%20Прочие%20задачи%20аналитика"> здесь </a> <br>  
  </ul>
 
 <img src="Welcome_line.jpg"

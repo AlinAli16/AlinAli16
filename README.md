@@ -7,7 +7,8 @@ alt="Welcome"
 ### <b>Меня зовут Алина и я: </b>
 
 📈 готова узнавать все новое и считаю, что саморазвитие это круто <br>
-🎓 окончила Karpov.Courses по направлениям Аналитик данных и Машинное обучение и Системный аналитик <br>
+🎓 окончила Karpov.Courses по направлениям **Аналитик данных** и **Машинное обучение** и **Системный аналитик** <br>
+✍ участвовала в мастер-классе для технический писателей **Docs as code** <br>
 💡 развиваю свои навыки на степике и симуляторах <br>
 <b> <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="20"> некоторые свои проекты представляю на github </b> <p>
 
@@ -17,7 +18,7 @@ alt="Welcome"
      height="20">
 
 ## 📚 <b> Мои проекты </b> </p>
-> <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_da">My проекты на Karpov.Courses по направлению Аналитик данных </a><p>
+> <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_da">Mои проекты на Karpov.Courses по направлению Аналитик данных </a><p>
 <ul>
  📁 Промежуточный проект по  e-commerce на Karpov.Courses <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_da/e-commerce"> здесь </a> <br>
  📁 Финальный проект на Karpov.Courses <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_da/final_project">здесь</a> <br>
@@ -30,12 +31,12 @@ alt="Welcome"
      </ul>
 </ul>
 
-> <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_ml">My проекты на Karpov.Courses по направлению Start ML </a><p>
+> <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_ml">Mои проекты на Karpov.Courses по направлению Start ML </a><p>
 <ul>
  📁 Прикладная разработка на Python <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_ml/Python">здесь</a>
 </ul>
 
-> <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_sa">My проекты на Karpov.Courses по направлению Системный аналитик </a><p>
+> <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_sa">Mои проекты на Karpov.Courses по направлению Системный аналитик </a><p>
 <ul>
  📁 Финальный проект <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_sa/Финальный%20проект"> здесь </a> <br>
  📁 Описание бизнес-контекста<a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_sa/Модуль%203%20Описание%20бизнес-контекста"> здесь </a> <br>
@@ -44,6 +45,12 @@ alt="Welcome"
  📁 Постановка задач для разработки (спецификации и ТЗ) <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_sa/Модуль%206%20Постановка%20задач%20для%20разработки"> здесь </a> <br>
  📁 Прочие задачи <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_sa/Модуль%207%20Прочие%20задачи%20аналитика"> здесь </a> <br>  
  </ul>
+
+> <a href="https://github.com/AlinAli16/portfolio_mkdocs">Mой проект, разработанный в рамках мастер-класса Docs as code </a><p>
+<ul>
+ 📁 Док. портал mkdocs <a href=https://alinali16.github.io/portfolio_mkdocs/> здесь </a>
+</ul>
+
 
 <img src="Welcome_line.jpg"
 alt="Welcome"
@@ -68,9 +75,17 @@ alt="Welcome"
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
+![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![openapi initiative](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Drawio](https://img.shields.io/badge/drawio-%23F08705?style=for-the-badge&logo=diagrams.net&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2334A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Microsoft Visio ](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)
 
 
 <div align="center">

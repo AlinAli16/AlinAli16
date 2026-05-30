@@ -28,16 +28,18 @@ alt="Welcome"
           <br>
           <ul>
                🗄️ Репозиторий <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_da">здесь </a><p>
-               📁 Промежуточный проект по  e-commerce на Karpov.Courses <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_da/e-commerce"> здесь </a> <br>
-                📁 Финальный проект на Karpov.Courses <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_da/final_project">здесь</a> <br>
-                📁 Другие проекты <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_da/other">здесь</a>
+               <ul>
+                    📁 Промежуточный проект по  e-commerce на Karpov.Courses <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_da/e-commerce"> здесь </a> <br>
+                     📁 Финальный проект на Karpov.Courses <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_da/final_project">здесь</a> <br>
+                     📁 Другие проекты <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_da/other">здесь</a>
                     <ul> 
-                     📑 <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_da/other/AA_test">A/A тестирование </a> <br>
-                     📑 <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_da/other/AB_test"> A/B тестирование </a> <br>
-                     📑 <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_da/other/ETL(Python%2BSQL)"> ETL (Python + SQL) </a> <br>
-                     📑 <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_da/other/airflow_python"> Airflow </a>   
+                          📑 <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_da/other/AA_test">A/A тестирование </a> <br>
+                          📑 <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_da/other/AB_test"> A/B тестирование </a> <br>
+                          📑 <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_da/other/ETL(Python%2BSQL)"> ETL (Python + SQL) </a> <br>
+                          📑 <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_da/other/airflow_python"> Airflow </a>   
                     </ul>
-               </ul>
+                </ul>
+           </ul> 
         </details>
       </td>
       <!-- Строка 1, Колонка 2: Start ML -->
@@ -47,7 +49,9 @@ alt="Welcome"
           <br>
           <ul>
             🗄️ Репозиторий <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_ml">здесь </a><p>
-            📁 Прикладная разработка на Python <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_ml/Python">здесь</a>
+            <ul> 
+                 📁 Прикладная разработка на Python <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_ml/Python">здесь</a>
+            </ul>
           </ul>
         </details>
       </td>
@@ -60,12 +64,14 @@ alt="Welcome"
           <br>
           <ul>
           🗄️ Репозиторий <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_sa">здесь </a><p>
-           📁 Финальный проект <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_sa/Финальный%20проект"> здесь </a> <br>
-           📁 Описание бизнес-контекста<a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_sa/Модуль%203%20Описание%20бизнес-контекста"> здесь </a> <br>
-           📁 Основы проектирования, проектирование взаимодействия <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_sa/Модуль%204%20Основы%20проектирования%2C%20проектирование%20взаимодействия"> здесь </a> <br>
-           📁 Основы проектирования БД <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_sa/Модуль%205%20Основы%20прокетирования%20БД"> здесь </a> <br>
-           📁 Постановка задач для разработки (спецификации и ТЗ) <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_sa/Модуль%206%20Постановка%20задач%20для%20разработки"> здесь </a> <br>
-           📁 Прочие задачи <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_sa/Модуль%207%20Прочие%20задачи%20аналитика"> здесь </a> <br>  
+               <ul>
+                📁 Финальный проект <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_sa/Финальный%20проект"> здесь </a> <br>
+                📁 Описание бизнес-контекста<a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_sa/Модуль%203%20Описание%20бизнес-контекста"> здесь </a> <br>
+                📁 Основы проектирования, проектирование взаимодействия <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_sa/Модуль%204%20Основы%20проектирования%2C%20проектирование%20взаимодействия"> здесь </a> <br>
+                📁 Основы проектирования БД <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_sa/Модуль%205%20Основы%20прокетирования%20БД"> здесь </a> <br>
+                📁 Постановка задач для разработки (спецификации и ТЗ) <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_sa/Модуль%206%20Постановка%20задач%20для%20разработки"> здесь </a> <br>
+                📁 Прочие задачи <a href="https://github.com/AlinAli16/Karpov.Courses/tree/main/karpov.courses_sa/Модуль%207%20Прочие%20задачи%20аналитика"> здесь </a> <br>  
+               </ul>
            </ul>
         </details>
       </td>
